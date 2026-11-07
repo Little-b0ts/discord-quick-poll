@@ -35,8 +35,11 @@ GitHub Pages can publish the project website, but it cannot keep a Discord bot r
 
 ## Support or Donating
 If you need support contact me on discord : spectro309896
+
 If you would like to support my work message me on discord : spectro309896
+
 If you need custom bots, more commands or any suggestions, again contact me on discord : spectro309896
+
 PS: I am not annoying 😉... I love working though...
 
 ## License
