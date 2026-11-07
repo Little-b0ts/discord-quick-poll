@@ -1,0 +1,7 @@
+.env
+polls.db
+polls.db-shm
+polls.db-wal
+.venv/
+__pycache__/
+target/
