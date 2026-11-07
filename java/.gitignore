@@ -1,0 +1,5 @@
+.env
+polls.db
+polls.db-shm
+polls.db-wal
+target/
